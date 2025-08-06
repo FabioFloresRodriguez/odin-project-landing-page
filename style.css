@@ -32,3 +32,11 @@ ul {
     margin-right: 48px;
     margin-left: auto;
 }
+
+.header-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    font-size: 18px;
+}

@@ -184,3 +184,26 @@ p {
     text-align: center;
     margin: 20px;
 }
+
+
+.third-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 250px;
+}
+
+.third-section h1 {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    margin: 0;
+}
+
+.third-section p {
+    display: flex;
+    align-self: flex-end;
+}

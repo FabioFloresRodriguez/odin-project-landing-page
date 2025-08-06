@@ -96,9 +96,10 @@ p {
     color: #E5E7EB;
     border-radius: 10px;
     border: none;
-    width: 72px;
+    width: fit-content;
     height: 27px;
     margin: none;
+    padding: 0px 10px;
 }
 
 .right-first {

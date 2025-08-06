@@ -41,3 +41,39 @@ ul {
     gap: 16px;
     font-size: 18px;
 }
+
+.first-section { 
+    display: flex;
+    background-color: #1f2937;
+}
+
+.left-first { 
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 72px;
+    align-items: flex-start;
+}
+
+#first-large-text { 
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin: none;
+}
+
+#first-small-text {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: none;
+}
+
+#first-button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 10px;
+    border: none;
+    width: 72px;
+    height: 27px;
+    margin: none;
+}

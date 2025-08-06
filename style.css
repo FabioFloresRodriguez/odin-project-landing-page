@@ -34,7 +34,7 @@ p {
     font-size: 24px;
     color: #F9FAF8;
     margin: 0px;
-    margin-left: 72px;
+    margin-left: 200px;
     margin-right: auto;
 }
 
@@ -42,7 +42,7 @@ p {
     display: flex;
     flex: 0 1 auto;
     margin: 0px;
-    margin-right: 72px;
+    margin-right: 200px;
     margin-left: auto;
 }
 
@@ -64,7 +64,7 @@ p {
     flex-direction: column;
     gap: 12px;
     margin: 48px;
-    margin-left: 72px;
+    margin-left: 200px;
     margin-top: 30px;
     justify-content: center;
     align-items: flex-start;
@@ -107,7 +107,7 @@ p {
     justify-content: flex-end;
     align-items: center;
     margin: 48px;
-    margin-right: 72px;
+    margin-right: 200px;
     margin-top: 30px;
     flex-grow: 1;
 }
@@ -192,7 +192,7 @@ p {
     background-color: #E5E7EB;
     justify-content: center;
     align-items: center;
-    padding: 20px 250px;
+    padding: 20px 450px;
 }
 
 .third-section h1 {
@@ -206,4 +206,12 @@ p {
 .third-section p {
     display: flex;
     align-self: flex-end;
+}
+
+.fourth-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 50px 200px;
 }

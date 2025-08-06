@@ -137,20 +137,18 @@ p {
 
 .bottom-second {
     display: flex;
-    align-items: center;
-    margin: 10px 0px;
+    justify-content: space-between;
+    gap: 52px;
 }
 
 .bottom-second img {
     height: 250px;
     width: 250px;
-    border: 25px;
     border-radius: 5px;
     border-color: #3882F6;
 }
 
 .bottom-second p {
-    display: inline-block;
     width: 250px;
     flex-wrap: wrap;
 }
@@ -158,31 +156,31 @@ p {
 .out-left-second {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    margin: 50px;
+    text-align: center;
+    margin: 20px;
 }
 
 .mid-left-second {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    margin: 50px;
+    text-align: center;
+    margin: 20px;
 }
 
 .mid-right-second {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    margin: 50px;
+    text-align: center;
+    margin: 20px;
 }
 
 .out-right-second {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    margin: 50px;
+    text-align: center;
+    margin: 20px;
 }

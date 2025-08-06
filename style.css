@@ -51,7 +51,9 @@ ul {
     display: flex;
     flex-direction: column;
     gap: 12px;
-    margin: 72px;
+    margin: 48px;
+    margin-left: 72px;
+    justify-content: center;
     align-items: flex-start;
 }
 
@@ -59,7 +61,7 @@ ul {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
-    margin: none;
+    margin: 0;
 }
 
 #first-small-text {
@@ -76,4 +78,19 @@ ul {
     width: 72px;
     height: 27px;
     margin: none;
+}
+
+.right-first { 
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: auto;
+    flex-grow: 2;
+}
+
+#image-first {
+    margin: 48px;
+    margin-right: 72px;
+    height: 320px;
+    width: 600px;
 }

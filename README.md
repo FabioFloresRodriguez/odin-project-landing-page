@@ -11,7 +11,7 @@ Made with HTML for the markup language and to make the structure of the website.
 
 To clone the repo, open a bash terminal and input
 ```bash 
-git clone https://github.com/Faterbino/odin-project-landing-page.git
+git clone https://github.com/FabioFloresRodriguez/odin-project-landing-page.git
 ```
 
 # Purpose
